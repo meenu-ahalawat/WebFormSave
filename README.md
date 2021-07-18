@@ -15,5 +15,5 @@ In this small project, html form is created and then to make it working a databa
     1.It helps developers in faster coding, in-turn reduces development cost.
 ##JsonPowerDB looks like:
     ![JPDB](https://user-images.githubusercontent.com/54215547/126065351-e8593fd9-23ff-40ce-9b9c-2b11bef22e6d.PNG)
-    
+##Form:
     ![form_Xp](https://user-images.githubusercontent.com/54215547/126065370-cc48e787-5548-4e88-a14f-bea886ad4902.PNG)
