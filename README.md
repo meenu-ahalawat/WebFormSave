@@ -12,4 +12,4 @@ In this small project, html form is created and then to make it working a databa
     1.It is low level (raw) form of data and is also human readable.
     1.It helps developers in faster coding, in-turn reduces development cost.
 ##JsonPowerDB looks like:
-    ![Screenshot](JPDB.png)
+    ![JPDB](https://user-images.githubusercontent.com/54215547/126065351-e8593fd9-23ff-40ce-9b9c-2b11bef22e6d.PNG)
